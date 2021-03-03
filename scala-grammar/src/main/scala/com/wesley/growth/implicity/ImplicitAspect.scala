@@ -1,4 +1,4 @@
-package com.wesley.growth.implic
+package com.wesley.growth.implicity
 
 /**
   * <p>
